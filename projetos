@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilo.css">
+    <title>Lucas Lenon Rodrigues Bueno</title>
+</head>
+<header>
+    <nav class="menu">
+        <ul>
+            <li><a href="index.html">Início</a></li>
+            </li><a href="projetos.html">Projetos</a></li>
+            </li><a href="mim.html">Sobre Mim</a></li>
+            </li><a href="fale.html">Fale Comigo</a></li>
+        </ul>
+    </nav>
+</header>
+
+<body>
+    <div class="TEXTOPROJETOS">
+        <div class"FOTO">
+            <img src="imagens/EM CONSTRUÇÃO.png" class="FOTO">
+        </div>
+        <article class="TEXTOPROJETOS">
+            <h3>Meu Portlofio ainda está em construção, havendo no momento apenas alguns projetos em Python que pode ser visualizados em meu repositório no GitHUB:<a href= "https://github.com/Lenon48/Projeto-Python/">
+                <img src="imagens/GitHub resize.png" alt="GitHub"
+            </a> </h3>
+
+        </article>
+    </div>
+</body>
